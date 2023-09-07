@@ -27,8 +27,6 @@ body{
 	margin-right:20px;
 	text-transform:uppercase;
 }
-.nav-link-wrapper{
-}
 .active-nav-link{
 	border-bottom:2px solid #000
 }
@@ -56,7 +54,6 @@ body{
 .portfolio-img-background{
 	background-size:cover;
 	background-position:center;
-	background-repeat:no-repeat;
 	height:350px;
 	width:100%
 }

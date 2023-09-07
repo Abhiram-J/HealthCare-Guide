@@ -1,50 +1,49 @@
-body{
-  background-color: white;
+body {
+  background-color: #fff;
   font-family: Arial;
-  margin: 0px;
+  margin: 0;
 }
-
-.head{
+.head {
   background-color: #158467;
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;
   padding: 10px;
-  color: white;
+  color: #fff;
   font-family: Arial;
   font-size: 40px;
 }
-.abt{
+.abt {
   background-color: #c0e218;
   text-align: center;
   font-family: Arial;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   padding: 40px;
 }
-.prevention{
+.prevention {
   background-color: #c0e218;
   text-align: center;
-  font-family: Arial; 
-  margin-top: 0px;
+  font-family: Arial;
+  margin-top: 0;
   padding: 40px;
 }
-.trans{
+.trans {
   background-color: #c0e218;
   text-align: center;
   font-family: Arial;
   padding: 40px;
 }
-.virology{
+.virology {
   background-color: #c0e218;
   text-align: center;
   font-family: Arial;
   padding: 40px;
   margin-bottom: 20px;
 }
-.intro{
+.intro {
   background-color: #11698e;
   text-align: center;
-  color: white;
+  color: #fff;
   margin-bottom: 10px;
 }
 .portfolio-items-wrapper {
@@ -73,22 +72,18 @@ body{
   padding-left: 100px;
   padding-right: 100px;
 }
-
 .img-text-wrapper .subtitle {
   transition: 1s;
   color: transparent;
 }
-
 .image-blur {
   transition: 1s;
   filter: brightness(10%);
 }
-
 .img-text-wrapper:hover .subtitle {
-  color: white;
+  color: #fff;
   font-weight: 600;
 }
-
 .logo-wrapper img {
   width: 50%;
   margin-bottom: 20px;
